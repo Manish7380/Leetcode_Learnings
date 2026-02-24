@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
@@ -58,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
