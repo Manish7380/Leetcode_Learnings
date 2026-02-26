@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0040-combination-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
