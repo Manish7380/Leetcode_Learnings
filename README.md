@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 ## Interactive
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
