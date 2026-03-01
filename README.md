@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
