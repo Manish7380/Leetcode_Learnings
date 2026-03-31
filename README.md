@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 | [0566-reshape-the-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 ## Two Pointers
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
