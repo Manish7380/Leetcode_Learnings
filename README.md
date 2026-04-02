@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
