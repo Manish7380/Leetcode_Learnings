@@ -1,29 +1,16 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int m = nums[0];
-        int c = nums[0];
+        int curr_max = nums[0];
+        int far_max = nums[0];
 
-        int s = 0;  
-        int e = 0;  
-        int t = 0;   
+        //Kadane's Algorithm
 
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] > (c + nums[i])) {
-                c = nums[i];
-                t = i;
-            } else {
-                c = c + nums[i];
-            }
-
-            if (c > m) {
-                m = c;
-                s = t;
-                e = i;
-            }
-        }
-
+            curr_max = Math.max(nums[i], curr_max +nums[i]);
+            far_max = Math.max(far_max ,curr_max );
        
-
-        return m;
+        }
+        return far_max;
+        
     }
 }
