@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Interactive
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
