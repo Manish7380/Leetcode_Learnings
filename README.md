@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-shuffle-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [1108-defanging-an-ip-address](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1528-shuffle-string) |
 ## Sorting
 |  |
 | ------- |
