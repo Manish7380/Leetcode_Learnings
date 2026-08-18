@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0168-excel-sheet-column-title) |
 | [0541-reverse-string-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0657-robot-return-to-origin) |
