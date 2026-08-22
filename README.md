@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0168-excel-sheet-column-title) |
 | [0541-reverse-string-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
