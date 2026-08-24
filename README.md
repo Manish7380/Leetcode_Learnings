@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1528-shuffle-string) |
+| [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
+| [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
