@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0240-search-a-2d-matrix-ii) |
 ## Pigeonhole Principle
 |  |
