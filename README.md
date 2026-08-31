@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 | [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
