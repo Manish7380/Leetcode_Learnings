@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Binary Search
 |  |
 | ------- |
