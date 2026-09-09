@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
