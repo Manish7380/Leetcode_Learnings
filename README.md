@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
