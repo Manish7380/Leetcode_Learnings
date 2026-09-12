@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
