@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0283-move-zeroes) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 ## Recursion
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
