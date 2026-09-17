@@ -1,16 +1,15 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int curr_max = nums[0];
-        int far_max = nums[0];
-
-        //Kadane's Algorithm
-
-        for (int i = 1; i < nums.length; i++) {
-            curr_max = Math.max(nums[i], curr_max +nums[i]);
-            far_max = Math.max(far_max ,curr_max );
-       
+        long maxx = Long.MIN_VALUE;
+        long sum =0;
+        for(int i=0; i<nums.length; i++){
+            sum += nums[i];
+            maxx = Math.max(maxx, sum);
+            if(sum < 0){
+                sum =0;
+            }
         }
-        return far_max;
-        
+
+        return (int) maxx;
     }
 }
