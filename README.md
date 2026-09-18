@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
