@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0054-spiral-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0069-sqrtx) |
