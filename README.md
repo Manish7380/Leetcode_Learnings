@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,8 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
