@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 ## Interactive
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 ## Recursion
 |  |
 | ------- |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -312,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
