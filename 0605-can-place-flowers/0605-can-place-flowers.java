@@ -2,9 +2,6 @@ class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int a = 0;
     int b =flowerbed.length-1;
-    if(flowerbed[a]==0 && n==0){
-        return true;
-    }
     if(flowerbed.length ==1 && n==1){
         if(flowerbed[a] ==0){
             flowerbed[a] =1;
@@ -29,9 +26,10 @@ class Solution {
             flowerbed[i] =1;
             n--;
         }
-        if(n <=0){
-        return true;
+        
     }
+    if(n <=0){
+        return true;
     }
     
     return false;
