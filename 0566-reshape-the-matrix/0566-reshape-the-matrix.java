@@ -7,12 +7,13 @@ class Solution {
         if(n * m != r * c) return mat;
         
         int[][] arr = new int[r][c];
-        
+        int index = 0;
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 
-                int index = i * m + j;
                 arr[index / c][index % c] = mat[i][j];
+                index++;
             }
         }
         
