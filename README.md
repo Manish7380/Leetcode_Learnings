@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0657-robot-return-to-origin) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
