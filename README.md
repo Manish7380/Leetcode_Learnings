@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1380-lucky-numbers-in-a-matrix) |
