@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1854-maximum-population-year) |
 ## String
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
