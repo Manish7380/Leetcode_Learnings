@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0162-find-peak-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0229-majority-element-ii) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
