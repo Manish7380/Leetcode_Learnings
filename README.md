@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1122-relative-sort-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
