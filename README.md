@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1051-height-checker) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1539-kth-missing-positive-number) |
