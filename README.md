@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -406,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
