@@ -13,28 +13,29 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
-        ListNode temp =head;
-        int count =0;
+        // Count total nodes
+        ListNode temp = head;
+        int count = 0;
         while(temp != null){
             count++;
             temp = temp.next;
         }
+        // Calculate remaining rotations
         int rem = k % count;
-        if(rem == 0){
-            return head;
-        }
         temp = head;
-        while(temp.next != null){   //find the last node
-           temp = temp.next;
+        while(rem != 0){
+            ListNode pre = null;
+            temp = head;
+            while(temp.next != null){
+                pre = temp;
+                temp = temp.next;
+            }
+            temp.next = head;
+            head = temp;
+            pre.next = null;
+            rem--;
+
         }
-        temp.next = head;  // Connect last node to head (make circular)
-        int steps = count -rem;
-        temp = head;
-        for(int i =1; i<steps; i++){
-            temp = temp.next;
-        }
-        ListNode newHead = temp.next; // Update the new head
-        temp.next = null;   // Break the circular linked list
-         return newHead;
+        return head;
     }
 }
