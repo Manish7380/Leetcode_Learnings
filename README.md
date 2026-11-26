@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1544-make-the-string-great) |
 | [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1768-merge-strings-alternately) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Manish7380/Leetcode_Learnings/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
