@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1668-maximum-repeating-substring) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Manish7380/Leetcode_Learnings/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
