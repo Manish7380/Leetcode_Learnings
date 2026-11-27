@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0925-long-pressed-name) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manish7380/Leetcode_Learnings/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1108-defanging-an-ip-address) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Manish7380/Leetcode_Learnings/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Manish7380/Leetcode_Learnings/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Manish7380/Leetcode_Learnings/tree/master/2000-reverse-prefix-of-word) |
